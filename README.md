@@ -9,4 +9,4 @@
 </ul>
 <h3>Installation</h3>
 <p>First you needd to have python on your computers then you need to install the mentioned modules</p>
-<p>You can clone it using git clone: </p>
+<p>You can clone it using git clone: https://github.com/Adityagupta1625/RealEstateML.git</p>
